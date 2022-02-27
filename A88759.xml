@@ -1,0 +1,263 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The free mans plea for freedom, against the arbitrarie unwarrantable actions and proceedings of the apostate associates, commonly called by others, Levellers. VVherein is briefly discovered how unsutable they walke to common right and freedom, being more arbitrarie and tyrannicall then any they oppose, wanting only a power to exercise their crueltie. / By R.L. a member of the army.</title>
+            <author>R. L.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88759</idno>
+            <idno type="STC">Wing L54</idno>
+            <idno type="STC">Thomason E443_10</idno>
+            <idno type="STC">ESTC R204716</idno>
+            <idno type="EEBO-CITATION">99864180</idno>
+            <idno type="PROQUEST">99864180</idno>
+            <idno type="VID">116402</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88759)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116402)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E443[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The free mans plea for freedom, against the arbitrarie unwarrantable actions and proceedings of the apostate associates, commonly called by others, Levellers. VVherein is briefly discovered how unsutable they walke to common right and freedom, being more arbitrarie and tyrannicall then any they oppose, wanting only a power to exercise their crueltie. / By R.L. a member of the army.</title>
+                  <author>R. L.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert White,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 18th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Levellers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116402:1" rendition="simple:additions"/>
+            <p>THE FREE MANS PLEA FOR FREEDOM, AGAINST The Arbitrarie unwarrantable actions and proceedings of the Apoſtate Aſſociates, com<g ref="char:EOLhyphen"/>monly called by others, LEVELLERS.</p>
+            <p>VVherein is briefly diſcovered how un<g ref="char:EOLhyphen"/>ſutable they walke to common Right and Free<g ref="char:EOLhyphen"/>dom, being more Arbitrarie and Tyrannicall then any they oppoſe, wanting only a power to exerciſe their Crueltie.</p>
+            <p>By <hi>R. L.</hi> A Member of the Army.</p>
+            <q>
+               <bibl>Job 11.3.</bibl>
+               <p>Should thy lies make men hold their peace? and when thou mockeſt ſhall no man make thee aſhamed?</p>
+            </q>
+            <q>
+               <bibl>Pſal. 50.19, 20.</bibl>
+               <p>Thou giveſt thy mouth to evill, and thy tongue frameth de<g ref="char:EOLhyphen"/>ceit, thou ſitteſt and ſpeakeſt againſt thy brother, thou ſlandereſt thine own mothers ſon.</p>
+            </q>
+            <q>
+               <bibl>Job 15.5, 6.</bibl>
+               <p>For thy mouth uttereth thine iniquitie, and thou chuſeſt the tongue of the craftie, thine own mouth condemneth thee, and not I, yea, thine own lips teſtifie againſt thee.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Robert White.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116402:2"/>
+            <pb n="1" facs="tcp:116402:2"/>
+            <p>
+               <seg rend="decorInit">I</seg>T being the grand deſign of all deceivers to look one way, and row another; to kiſſe, when they meane to betray; it cannot be judged unneceſſary to trie all things, and to chuſe only that which is good; and the way to judge of the ends and deſignes of men, is not to take notice of what they talke of, but of what they do; for <hi>Abſolom</hi> pretended juſtice to the people, when he made war againſt his Father, but his deſign was to make himſelf King; ſo the <hi>Jews</hi> could ſay they were <hi>A<g ref="char:EOLhyphen"/>brahams</hi> ſeed, and had one Father, even God, but Chriſt beleeved them never the more for that, <hi>If you were Abrahams children, ye would doe the workes of Abraham,</hi> John 8.39. <hi>If God were your Father, ye would love me,</hi> ver. 42. <hi>But ye are of your father the devill, and the workes of your father ye will doe,</hi> ver. 44. He judged them by what they did, and not by what they ſaid; Therefore it is not enough for men to ſay they are for our freedome and li<g ref="char:EOLhyphen"/>berties; but let us conſider what they are doing; the ſtature of <hi>Hercules</hi> may be taken by the length of his foot; he that cannot imploy one talent well, is not to be truſted with five; therefore before we can beleeve you meane to doe as you ſay, we muſt be ſatisfied with theſe following Queries.</p>
+            <p>Firſt whether thoſe things you call common right, and freedome, be ſo common as you ſay they are, or no? whether every free man in the Kingdom be equally intereſted in them, or not if they be, whether one particular man be not as competent a judge of his owne freedome as another? and if ſo, whe<g ref="char:EOLhyphen"/>ther any thing can be called the agreement of the people, if you meane the whole, before every man, or at leaſt the Major part concerned in it, hath owned it, and ſubſcribed it? if not, whether it be not a preſumptuous delu<g ref="char:EOLhyphen"/>ſion, for a few men to repreſent any thing to the Peoples repreſentative in the name of the whole, before the whole, or halfe, or any conſiderable part of the People hath intruſted, or deſired them to doe it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quaerie. </seg>2</label> If we ſhould approve of, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wne your paper, or moſt of thoſe things compriſed in it as thoſe things, wh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch ſo farre as we are able to judge, might be very much conducing to our good<g ref="char:punc">▪</g> and accordingly ſhould deſire you to repreſent them to the Parliament in our <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ehalfes, as our deſires, whether or no do ye intend we ſhould leave them to the judgement of the Parliament to owne, or not owne them? if not, to what end doe we repre<g ref="char:EOLhyphen"/>ſent them? if we doe, to what purpoſe are thoſe reſolutions annexed to it, wherein you reſolve to maintaine them againſt all oppoſition whatſoever, without exception?</p>
+            <pb n="2" facs="tcp:116402:3"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quaerie. </seg>3</label> In caſe we did fully approve of the things, and could wil<g ref="char:EOLhyphen"/>lingly deſire the ſettlement of them, both in relation to our ſelves, and the Kingdome, and ſhould doe our utmoſt in uſing all lawfull meanes for the attaining thereof, and ſhould finde ſuch oppoſition, as that they could not poſſibly be ſo accompliſhed, whether then or no would you with <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> reſt ſatisfied, till God did give a further opportunitie, and make our way more plaine before us? if not, how ſhall we then partake with you in proſecuting a good worke, and not be inſnared in the uſing of unlawfull meanes? we judging it not lawfull to doe evill that good may come thereon. <hi>Rom.</hi> 3.8.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quaerie. </seg>4</label> If you at this time being ſo inconſiderable a partie, and the things which you propound ſo diſputable, if not dangerous, ſhall be ſo un<g ref="char:EOLhyphen"/>charitable in your judgements, ſo raſh in your cenſures, and ſo ready to tram<g ref="char:EOLhyphen"/>ple upon, and deſpiſe all men that are not able to joyne with you in all your actions, though otherwiſe very forward in proſecuting all the ſame things you pretend; what meaſure can be expected from you<g ref="char:punc">▪</g> if once you become a powerfull and prevalent partie in the Kingdome, but harſh and cruell uſage, if we cannot in all things joyne with you? and if ſo, what difference is there betwixt you and others? only we are ruined by others under the colour of prerogative and priviledges, and by you under the pretence of libertie and freedome.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quaerie. </seg>5</label> If at this time, while there is ſo little appearance of any con<g ref="char:EOLhyphen"/>ſiderable intereſted people in this Kingdome joynes with you, much leſſe of honeſt godly people, you be ſo apt and ready to ingage any ſort of people to you, and chiefly thoſe who are moſt probable to joyne with you, or any others upon mercenary ſelfiſh conſideration, their intereſt in this King<g ref="char:EOLhyphen"/>dome being no other but their owne preſent livelihood and ſubſiſtence, and thoſe to ingage to you by deluſive promiſes and falſe ſuggeſtions; what aſ<g ref="char:EOLhyphen"/>ſurance ſhall we have, that you will not by the ſame evill meanes, uſe the ſame inſtruments to deſtroy all our juſt intereſts, if we doe not in all things ſub<g ref="char:EOLhyphen"/>mit to you, though againſt our owne reaſons and conſciences? and if ſo, where is our freedomes and lib<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rties?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quaerie. </seg>6</label> If it be your p<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nciple, that no obligation by way of ingage<g ref="char:EOLhyphen"/>ment or declaration though never ſo publique and peremptory, is binding longer then you have nothing to object againſt it, as it hath been publickly maintained <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſeverall meetings, why doe you then blame the Army, for not making good their declarations and ingagements? it is poſſible they may have ſomething to object againſt them, which if they have, how is it poſſible for any man to act to your ſatisfaction, when you will neither give
+<pb n="3" facs="tcp:116402:3"/>him leave to be guided by his owne reaſon, nor your principles?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quaerie. </seg>7</label> If that we are the cauſe of your diſſatisfaction in the Ar<g ref="char:EOLhyphen"/>mies proceedings, their not making good their ingagements and decla<g ref="char:EOLhyphen"/>rations, why did not you, when you were ſo earneſtly deſired by them, joyn with them in the reviewing what they were ingaged to, and where<g ref="char:EOLhyphen"/>in they had failed, to the end it might have been amended? But on the contrary, propoſe new things, quite beſide their ingagements, and con<g ref="char:EOLhyphen"/>trary to them, except you deſigned a deſamation, rather then a reforma<g ref="char:EOLhyphen"/>tion of the Armies proceedings.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quaerie. </seg>8</label> If the cauſe of <hi>Englands</hi> preſent miſery flow from it's diviſions and diſtractions, and no probable meanes left to prevent its preſent ruine, but a chriſtian, ſober, friendly compliance of all the honeſt intereſts diſtinguiſhed among us by the names of Presbyterie, and Inde<g ref="char:EOLhyphen"/>pendency &amp;c. and no ſuch viſible meanes to ruine and deſtroy it, as the further adding to, &amp; increaſing of the diviſions and diſtractions already in it, how is it poſſible for any man to judge you deſire the life of the Kingdome, that are ſuch utter enemies to the health of it? That you deſire the liberty and freedome of the People, that are ſuch grand ene<g ref="char:EOLhyphen"/>mies to the peace and ſafety of them? unleſſe you can convince us, the neareſt way from <hi>Yorke</hi> to <hi>London,</hi> is by <hi>Barwick.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quaerie. </seg>9</label> If you affirm, that the way to ſtop the Gangrene of <hi>Englands</hi> diſtractions and diviſions, and ſo conſequently its ruine, is to propound ſome generall heads to be agreed on by the People, contain<g ref="char:EOLhyphen"/>ing the fundamentall rights and liberties of the Nation, we agree with you. To propound &amp; preſent ſuch things according to the fundamentall rights and freedomes of the Nation, is good, which is an orderly Par<g ref="char:EOLhyphen"/>liamentary way; but for you to propound the fundamentall rights and liberties of the People, and to proſecute the evident ruine and deſtructi<g ref="char:EOLhyphen"/>on of the People, is a ſtrange way to demonſtrate your good intentions; as thus, if our Brethren of <hi>Scotland</hi> ſhould march with an Army over <hi>Tweede,</hi> and ſhould tell us they came for our good, and to help us againſt the common enemy to the Covenant and cauſe, which formerly they have aſſiſted us in, and in their march ſhould p<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nder and ſpoile us of our goods, <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>riſon and deſtroy our friends, fight with and oppoſe our Armies, &amp;c. we ſhould have very little cauſe to <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>leeve them; or thus, if any of your houſes were on fire about your eares, <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d a company of People ſhould come with empty buckets, and pretend they wo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d indeavour to quench the fire, and in the <hi>interim</hi> plunder and ſpoile you
+<pb n="4" facs="tcp:116402:4"/>of your goods, and in ſtead of water, caſt on pitch, or combuſtible mat<g ref="char:EOLhyphen"/>ter to increaſe the flame, you would have very ſmall cauſe to thank them. And thus friends, while you are propoſing to us good things, and filling our eares with many good words, conſider what your actions have been: <hi>Judas</hi> could crie <hi>Haile Maſter,</hi> when he betrayed him. You have been telling us of a free repreſentative of the people in Parliament, in order to which, you have uſed all poſſible meanes to bring this preſent Par<g ref="char:EOLhyphen"/>liament under force, to put conditions upon them, by preſcribing rules, and ſetting bounds to them, vilifying, reviling, and reproaching of them to their faces, in ſuch an audacious and uncivill manner, as few that have either conſcience or prudence, would doe their ſervants, nay hardly their dogs, if they were capable of receiving a reaſonable reproofe; calling them the ſupreame authority of <hi>England</hi> to day, and deny there is any ſuch thing as authority remaining in them another day; as in Major <hi>White</hi> his book, Stile them the honourable houſe of Commons one day, the degenerate, unjuſt, arbitrary, tyrannicall Parliament another day; Print papers, intituled, An humble petition to the ſupreame authority of <hi>England,</hi> the honourable houſe of Commons, on the top of the ſheet: appeale to the People againſt them, charging them with falſhood, lies, tyrannie, injuſtice, ruling by their crooked wils, and damnable luſts, in the bottome of the ſame ſheet, as you may ſee in a petition delivered to the houſe of Commons preſently after the rendezvous at <hi>Ware,</hi> in the behalfe of the Agreement of the People. Colonell <hi>Ayres,</hi> and Captain <hi>Bray,</hi> &amp;c. is this a demonſtration of your great affections to the Peoples repreſentatives? is it the freedome of the Peoples repreſentative to be taunted, reviled, reproached, and ſcandalized, and that publickly in Print to their faces, in ſuch a manner, as the meaneſt man repreſented would not indure, nor put up, without reparation. But the People, and the repreſentative, may expect both to drink in one cup; the repreſenta<g ref="char:EOLhyphen"/>tive will but ſwallow down the top, the People ſhall be ſure enough of the dregs: Theſe carriages differ much from <hi>Pauls</hi> ſpirit, who ſaid, <hi>it is written, thou ſhalt not ſp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ake evill of the ruler of the people, Acts</hi> 23.5. and ſo in <hi>Tim.</hi> 5.1. <hi>Rebuk<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not an elder, but intreat him as a father.</hi> But the Scriptures and <hi>M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gna Charta</hi> are both of one authority, which moſt of theſe men, onl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the latter for the preſent is moſt in requeſt; another ge<gap reason="illegible" resp="#UOM" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap> good which they have held before our eyes to humble us with, hath been the eaſing of the Kingdome of, or from thoſe ſad oppreſſions and burdens which they lie under, as Exciſes, Taxes, and free-quarter, &amp;c.
+<pb n="5" facs="tcp:116402:4"/>and in order to this, they have indeavoured to prevent and ſtop all meanes uſed for that end, the greateſt viſible burden which lay upon this Kingdome being the Soldiery, eſpecially before the disbanding ſupernumeraries, and taking them off from free-quarter; and ever ſince the Parliament hath been about that worke, they have been in<g ref="char:EOLhyphen"/>deavouring by all poſſible means to prevent it, both by perſwading the Countrey from paying their money, without which the worke could not be done, and telling the ſouldiers they ought not to disband, nor ſuffer themſelves to be disbanded nor divided, &amp;c. And if God had not prevented their attempts in oppoſition to this worke, the Kingdom would have ſunk under the burden of free-quarter by this time, or elſe have broken its owne back, by indeavouring to ſhake its burden off by force, and the ſouldiery, whom they have ſo much indeavoured to delude by their plauſible pleadings for their rights, have been wholly fruſtrated and prevented of all thoſe things, which by their moderation and patience, God hath inabled the Parliament to do for them, in order to their Accounts, Arreares, pr<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nt pay, indempnity, &amp;c. ſo that what re<g ref="char:EOLhyphen"/>all pity or affection you have towards the Peoples eaſe from their bur<g ref="char:EOLhyphen"/>dens, let themſelves and the world judge; And thus, if it were either worth the reading, or my penning; it is obſervable, through your whole courſe, you have pretended one thing, and done another; cried up the Peoples liberties with your mouthes, and deſtroyed them with both your hands.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quaerie. </seg>10</label> If it be the liberty of the People you would ſo faine be fighting, and wading in blood for, what People are they? if for the whole Kingdom, when did they chuſe you? if for the Major part, how ſhould we know it? if for the Minor part; where will you leave the finall judgement? for if it be lawfull for you, as the Minor part of this Kingdom, to force thoſe things you judge to be juſt, on the Major part; without controverſie, it is more lawfull for the Major part to de<g ref="char:EOLhyphen"/>fend themſelves, and oppoſe you, if they judge the ſame to be unjuſt; therefore, if this be the liberty of the People to fight with, and deſtroy one another upon every apprehenſion of a juſt <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>auſe, you may ſpare your paines in procuring a ſafe and well grounded p<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce; for according to your principles, it muſt laſt no longer then you, of <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y ten men of your minde judge it to be juſt, which will be but a very little wh<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:punc">▪</g> if you change your principles twice a week, as it is eaſy to prove many of you have done.</p>
+            <pb n="6" facs="tcp:116402:5"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Quaerie. </seg>11</label> If according to your pretended principle, there is no legeſlative power inherent in any perſon or perſons, but what is deri<g ref="char:EOLhyphen"/>ved from the people and that the peoples repreſentative alone ought to be the ſole judge of their Rights and Liberties, and that all others are Tyrants and uſurpers, which do not exerciſe their power by vertue of a truſt, eſpecially in making or repealing Lawes; by what authoritie, or from whom derived, did you take upon you to give out Orders to the Army, Rules to the Parliament, and Lawes to the Kingdom, as you have ſeverall times done, wanting only a power to inforce them? which you likewiſe have indeavoured to obtain, but by an Arbytrarie, tyranni<g ref="char:EOLhyphen"/>call, uſurped power; and have hereby manifeſted your ſelves to be worſer Tyrants then any you oppoſe: Uſurpation attended with violence be<g ref="char:EOLhyphen"/>ing the top of Tyrannie. Nay again, by your own pretended principles, it is not lawfull, juſt, nor equall for any man to be judged by a Law which he never gave his conſent unto in his lawfull repreſentative, duly choſen and elected; and yet you your ſelves, though you repreſent not the leaſt Countie, nor the leaſt Corporation in the Kingdome, take upon you to preſcribe Rules to a Parliament now ſitting, to give Lawes to a Kingdome, which is the higheſt piece of unequall and unjuſt preſump<g ref="char:EOLhyphen"/>tion that ever was acted.</p>
+            <p>
+               <hi>Object.</hi> You miſtake, we do not intend to give Lawes to the King<g ref="char:EOLhyphen"/>dome, but only repreſent to them a paper, wherein is contained the ſubſtance of the Peoples Rights and Liberties, to which we deſire a<g ref="char:EOLhyphen"/>greement, and accordingly have intituled it the Agreement of the People.</p>
+            <p>
+               <hi>Anſw.</hi> You have given it a wrong name, you might more properly have called it their diſagreement, or falling out. But if it be an Agree<g ref="char:EOLhyphen"/>ment, as you call it, we hope you meane a voluntarie agreement, by free conſent; which if you do, what meanes all this indeavouring to ingage men in Armes to own it? will Swords and Guns convince mens reaſons, and informe their judgements of the equitie and juſtice of the things? or if it be an agreement that ye hold forth, what meanes thoſe reſolu<g ref="char:EOLhyphen"/>tions among you, that if you have but ten men on your ſide, you will make your way through the blood of all the reſt? Will nothing ſerve to ſeale an ag<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ement but blood? nay, it is probable you will be as good as our word; for thoſe that are not tender of mens names and repu<g ref="char:EOLhyphen"/>tations, will never be tender of their blood, and I am ſure you have in<g ref="char:EOLhyphen"/>deavoured already to make your way thorow the honour and reputati<g ref="char:EOLhyphen"/>on
+<pb n="7" facs="tcp:116402:5"/>of ſuch men whom God hath chiefly owned and honoured in all thoſe chiefe deliverances he hath wrought for this poore Kingdome in the late warre; but conſidering, they are men who are not deſirous to be praiſed in Print, who had rather have their owne actions demon<g ref="char:EOLhyphen"/>ſtrate their innocencie, then other mens Pens; I ſhall deſire them to con<g ref="char:EOLhyphen"/>ſider, there was a day when <hi>Shimei</hi> curſed <hi>David,</hi> and he comforted his heart with this conſideration, <hi>It may be that the Lord will look on my af<g ref="char:EOLhyphen"/>fliction, and that the Lord will requite good for his curſing this day;</hi> and his expectation was not in vaine, and therefore for men to call that an A<g ref="char:EOLhyphen"/>greement of the People, which they intend to make a Law to them by force, pretends a Paradox; for what doth this differ from that Agreement <hi>William</hi> the Conquerour made with the People, which you call the <hi>Nor<g ref="char:EOLhyphen"/>man</hi> yoake, for whatſoever men are forced and compelled to, can no more be called an Agreement, then Impriſonment can be called Liber<g ref="char:EOLhyphen"/>tie: If this be Chriſtian Libertie, then the <hi>Spaniſh</hi> Inquiſition is a Chri<g ref="char:EOLhyphen"/>ſtian priviledge. Againe, if it be freedome and libertie you contend for, why will you not give that to others, which you ſo highly prize your ſelves? if it be your libertie to deviſe, prepare, and propoſe things in the behalfe of your ſelves and others, before any others beſides your ſelves, either heare, or ſee what you propound. Is it not as much the li<g ref="char:EOLhyphen"/>bertie of thoſe others you ſpeak of, to reade, conſider, and judge of what is propoſed by you, before they agree with you? and if ſo, then ſurely when a Paper, intituled an Agreement, or Petition is delivered to the Parliament by a ſmall number of perſons in a Kingdom, in the name of themſelves and the People, it is the Parliaments libertie, as they are free Commoners of <hi>England;</hi> if you will not allow it their Priviledge as they are a Parliament, to conſider, judge, and determine what anſwer will become them to give to ſuch a petition preſented to them by ſuch Peti<g ref="char:EOLhyphen"/>tioners, and to deny as well as grant, if their judgements leade them for it, unleſſe you intend to ingroſſe the whole power of judging and de<g ref="char:EOLhyphen"/>termining the Peoples liberties to your ſelves, and convert the con<g ref="char:EOLhyphen"/>currence of King, Lords, and Commons into one negative voice, and lay them all aſide together.</p>
+            <p>As we have little cauſe to judge you are ſo purely publique principled for common right and fredome, as you pretend by you<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> actions, ſo have we leſſe cauſe to expect it from you, when we obſerve your diſpo<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ions and qualifications, there being naturally an inveterate diſlike, and an ab<g ref="char:EOLhyphen"/>horring of all things that are not of your own creating, and of all men
+<pb n="8" facs="tcp:116402:6"/>that are not of your own principle and opinion, there being no more good nature in you then in Lyons, Beares, Tigers, &amp;c. the worſt of them being friends one to another of the ſame kinde, which is all the ground of friendſhip or charitie that ever I could diſcover among the generali<g ref="char:EOLhyphen"/>tie of you, which is ſo farre from pure principles of common right and freedome, that the worſt of Tyrants I have heard or read of, hath ex<g ref="char:EOLhyphen"/>ceeded you, they have out of a principle of policie commonly exerciſed a great deale of clemencie towards people, whom they have known did not favour theſe actions, thereby to delude them into ſubjection; nay, many of them have uſed much ſeeming indulgencie toward their open enemies, if they would but acknowledge their courteſies to be acts of grace and favour towards them; but you have been ſo farre from ha<g ref="char:EOLhyphen"/>ving any of theſe moderate humane naturall principles found in the worſt of men ruling of you, that you have degenerated from a great deale of that good nature and diſpoſition which is found in many beaſts; the fierceſt maſtive dogge, who weares a clogge and chaine to keepe him from biting ſtrangers will know the people in the ſame family with him, and eſpecially thoſe from whoſe hands he receives much of his food, and will be ſo far from exerciſing his naturall crueltie towards them, that he will run the greateſt hazard in their defence: nay, it is obſerved in Beares, after they have received acquaintance, or have received Cour<g ref="char:EOLhyphen"/>tiſies from a man, they will not hurt him, but will admit of much fami<g ref="char:EOLhyphen"/>liaritie with him, and I have ſome time heard, that the favour of a Lyon may be won by courteſies.</p>
+            <p>By the way you may take notice of that common ſtory of the traveller looſing his way in the wilderneſſe, found a Lion who had caught a thorn in his foot, which he pulled forth, for which courteſie the cruell beaſt was ſo gratefull, as to become his protectour till he brought him paſt all danger; and how unworthily ungratefull many of you have been, and ſtill are to particular perſons, and whole ſocieties of men, who hath made your condition their own, who hath and do ſtill tender many of you as pieces of their own fleſh, whoſe hearts and affections deſires your good as their own who would joyfully live or die in any righteous cauſe with you, if y<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> would proſecute it only in a righteous way, and put more truſt in God in the uſe of lawfull meanes, and leſſe in your own ſubt<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ty and craftineſſe; yet theſe are the men whom the ſharpeſt of your arrowes are ſhot againſt, whoſe blood you lie in waite for, as a Lion doth for his prey; it being your meat and drink to heare and de<g ref="char:EOLhyphen"/>viſe
+<pb n="9" facs="tcp:116402:6"/>falſhoods againſt them, to ſpeak and print evill of them, that they may juſtly take up that complaint againſt you which <hi>David</hi> uſed againſt ſome ſuch ungratefull friends of his, <hi>Pſal.</hi> 35.12. <hi>Falſe witneſſes did riſe up, they laid to my charge things that I knew not, they have rewarded me evill for good,</hi> ſo in <hi>Pſal.</hi> 109.4. <hi>For my love they are my adverſaries, and they have rewarded me evill for good, and hatred for my good will:</hi> and as you are naturally ungratefull, ſo are you as eminently malicious and revengefull, which is another principall branch of tyranny. I never be<g ref="char:EOLhyphen"/>ing able to finde the leaſt inclination in many of you, to put up or forgive the leaſt perſonall wrong or injury, but rather to reſt unſatisfied, as a bear robbed of her whelps, to be revenged, and have full reparations, and as you are thus ungratefull, malicious, and revengefull, ſo are you as ambitious, proud, and haughty, eſteeming highly of your ſelves in your own things; he being a man not worth the calling a fellow-com<g ref="char:EOLhyphen"/>moner that hath not exalted his arrogant, reſolute, pride and haughtineſſe above his ſence, reaſon and judgement; that hath not reſolved to main<g ref="char:EOLhyphen"/>taine any cauſe with reſolution; if he be once ingaged in it, be it good or bad, that is not able to ſpeak great ſwelling words, and look mighty big looks in the face of any Authority he comes before, though for the moſt ſcandalous offence that can be committed; and if theſe be your vertues, the beſt part of you, what kind of things are the worſt can we expect from ſuch a corrupt fountaine as this wholſome waters? <hi>Doe men gather grapes of thornes, and figs of thiſtles? Matth.</hi> 7.16. Sirs be not deceived, God will not be mocked, <hi>For wherein thou judgeſt another thou condemneſt thy ſelfe, for thou that judgeſt doeſt the ſame things, Rom.</hi> 2.1. <hi>Thou hypocrite, firſt caſt the beame out of thine owne eye, and then ſhalt thou ſee clearely to caſt out the mote out of thy brothers eye, Matth.</hi> 7.5.</p>
+         </div>
+         <div type="postscript">
+            <pb n="10" facs="tcp:116402:7"/>
+            <head>A POSTSCRIPT.</head>
+            <head type="sub">To thoſe private ſouldiers of the Armie which hath been deceived by theſe mens delu<g ref="char:EOLhyphen"/>ſions.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Ellow Souldiers, I having had the happineſſe to be a ſpectator of thoſe great things God hath done for you, and by you. I am invited by that affection and duty I owe and beare to you, to repreſent theſe things to your conſideration, well knowing there is not only a ſpirit of zeale, but of judgement in many of you, able to diſcerne betwixt good and evill, while you acted in the way of God to accompliſh the worke of God. God then dwelt among you, his glo<g ref="char:EOLhyphen"/>ry was upon you, you were then a comfort to your friends, and a terrour to your enemies: but if you forſake his way, he will owne you no longer in his worke. <hi>Will you doe wickedly for God, and talke deceitfully for him, Job. 13.7.</hi> Let not men which make lies their refuge, falſhood and deceit their ſtrength, be our leaders into evill wayes, for when the blinde lead the blinde, then both fall into the ditch: and how wilfully blinde thoſe men have been which hath endeavoured to lead you into irregular wayes, to the great diſhonour of that God who hath ſo much honoured you, is viſible:</p>
+            <p>What is become of the great deſigne your Officers had to advance the kings Intereſt, and thereby procure their owne greatneſſe, Is Lord Generall <hi>Cromwell</hi> made Earle of <hi>Eſſex</hi> yet? or Captaine
+<pb n="11" facs="tcp:116402:7"/>Generall <hi>Ireton</hi> Field Marſhall Generall of <hi>Ireland?</hi> Is the King at <hi>White-Hall</hi> yet, without giving ſatisfaction to the Kingdom? is the Armie or any part of it disbanded without ſufficient indem<g ref="char:EOLhyphen"/>nitie, preſent pay, and ſecurity for Arreares? Doe but review thoſe deluſive lying pamphlets intituled <hi>Putneys projects,</hi> a Call to the Armie, an Alarm to the Head-quarters, the grand deſigne, &amp;c. And take notice with what confidence and boldneſſe they ac<g ref="char:EOLhyphen"/>cuſed the Parliament and Armie in generall, with many particular men, who hath been eminently faithfull to the Kingdomes Intereſt, of treachery and baſeneſſe of ſpirit, declining their principles, &amp;c. and all grounded upon their under hand compliance with the King, their carrying on His Deſignes by private conferences with Him, &amp;c. All which ſuggeſtions doth plainly appeare to all that hath not willingly given up themſelves to beleeve lies, to be falſe and ſcandalous ſlanders; yet theſe and ſuch like are the only truths that pretended infallible ſpirit revealed to theſe men at the time of the Randezvouzing at <hi>Ware,</hi> and did I not yet diſcover the ſame ſpirit raging in the ſame men, with as much boldneſſe and confidence as if they had never been the authour of all theſe lies, I ſhould have forborne any teſtimony againſt them, and rather have judged what they then did, might proceed from raſhneſſe or miſtake, and not done plotting or deſigningly; but it hath ſince appeared the contrary, they continuing to this very day by the ſame evill meanes to proſecute the ſame things, which is to ſet you one againſt another, and every man elſe againſt you all, endeavou<g ref="char:EOLhyphen"/>ring to make you odious to the Kingdome, and the Parliament, and your Officers odious to you.</p>
+            <p>Firſt, they Print petitions in the name of the People, and make you, whom God hath uſed to be the inſtruments of their deliverance, the cauſe of all their oppreſsion and miſeries, c<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing out of op<g ref="char:EOLhyphen"/>preſsion, violence, taxes, free-quarter, &amp;c. all which they charge equally upon you, as you are an Armie, making the miſcarriage of one man among a thouſand, to reflect upon all; on purpoſe to ren<g ref="char:EOLhyphen"/>der
+<pb n="12" facs="tcp:116402:8"/>you odious, making you the cauſe of the decay of trading, and of that deareneſs and ſcarcity that is in the Kingdome, as if they would have the Kingdome riſe, and cut your throats to ſave your victuals, and make corne cheape; and yet when the Parliament is uſing all poſsible meanes to pay you off, and disband you; and the Generall with your officers uſing the utmoſt of their intereſt to obtaine honourable and ſatisfactory conditions for you: both Par<g ref="char:EOLhyphen"/>liament and Generall indeavouring to their utmoſt to eaſe the Kingdome of their burdens, and requite you for your faithfull ſer<g ref="char:EOLhyphen"/>vices, then are they of another minde, then are they ſending their Emiſſaries among you, to ſtirre you up to diſobedience, telling of you, you ought not to divide, nor ſuffer your ſelves to be divided, nor disbanded, &amp;c. ſo what they would have you to doe is worth your enquiring after, for they would not have the Countrey either pay you, nor give you victuals: neither would they have you to disband, nor ſuffer your ſelves to be disbanded; they have only left you theſe two things to chuſe one, either to continue in your warfare upon your own charges, or elſe to live upon the ſpoile and ruine of the Kingdome: the former I feare you cannot doe, and the latter I am confident your ſoules abhorre to thinke; therefore conſider, God hath placed you under men that have preferred your wel fare and ſafety above their owne; they trampled upon great gifts and high places, and were willing to ſtand with you, nay to fall with you, rather then to ſtand themſelves, and ſee you fall: and therefore let it never be ſaid, that an Armie of men ſo prin<g ref="char:EOLhyphen"/>cipled, ſo regulated, whom God hath ſo honoured under the conduct of men ſo eminently faithfull, honourable, and ſucceſſefull, ſhould be diſobliged from their obedience, by falſe and ſcandalous ſug<g ref="char:EOLhyphen"/>geſtions of men, wh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> make it their buſineſſe to vent their rage, and their paſsion againſt all that are not approvers of their diſpu<g ref="char:EOLhyphen"/>table, if not evil actions: And ſince you have found the power and preſence of God ſo viſible among you, while you every one acted in the ſame place God hath called you to, in the worke he laid
+<pb n="13" facs="tcp:116402:8"/>before you, Waite upon God there ſtill. It was the counſell <hi>Moſes</hi> gave the people in the greateſt ſtraight that ever they were in, <hi>to ſtand ſtill, and ſee the ſalvation of the Lord:</hi> and they did take his counſell, and God did ſave them, and by the ſame hand ruined their enemies: And if you doe waite for the ſalva<g ref="char:EOLhyphen"/>tion of the Lord in the uſe of lawfull meanes, he is able and faith<g ref="char:EOLhyphen"/>full to doe you good, and to make the ſea of all thoſe dangers and difficulties that ſtand before you, to become a wall on the right hand, and on the left unto you: and to make thoſe things you moſt feare, to be moſt ſubſervient unto his end, which is his glory: and to your ends, which I hope is the ſettlement of this poore diſtracted Kingdome, in a ſafe and well-grounded Peace; Which, that you may be inſtrumentall in, is the conſtant prayers, and earneſt deſires of your faithfull ſervant.</p>
+            <closer>
+               <signed>R. L.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
